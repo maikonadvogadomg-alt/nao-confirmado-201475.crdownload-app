@@ -1,0 +1,143 @@
+{
+  "titulo": "MINI SK",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/ferramentas/banco-neon.html",
+      "nome": "Banco de Dados (Neon)",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/analisador-v2.html",
+      "nome": "Analisador Local de Projetos — V2",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/analisador.html",
+      "nome": "Analisador de Projetos",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/caca-sql.html",
+      "nome": "🔍 Caça Esquema SQL",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/cofre-config.html",
+      "nome": "⚖️ Cofre de Configurações",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/colecionador-codigo.html",
+      "nome": "Colecionador de Código",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/comandos-termux.html",
+      "nome": "📦 Banco de Comandos Termux",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/conversor-imagem.html",
+      "nome": "Conversor de Imagem Econômico",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/desmontador-backup.html",
+      "nome": "Restaurador Universal",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/detector-api.html",
+      "nome": "Detector e Corretor de API",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/divisor-html.html",
+      "nome": "Divisor de HTML",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/juntador.html",
+      "nome": "Juntador de Projetos HTML",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/leitor-universal.html",
+      "nome": "📂 Leitor Universal de Arquivos",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/monica-guia.html",
+      "nome": "API Monica — Guia Visual",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/monica-passo.html",
+      "nome": "Guia Monica API - Passo a Passo",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/montador-modulos.html",
+      "nome": "🧩 Montador de Módulos — PWA Jurídico",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cloud/procurar-substituir.html",
+      "nome": "Procurar e Substituir",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon.svg"
+    },
+    {
+      "path": "electron/navegador.html",
+      "nome": "🌐 Navegador — Mini SK",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "claro",
+  "links": []
+}
